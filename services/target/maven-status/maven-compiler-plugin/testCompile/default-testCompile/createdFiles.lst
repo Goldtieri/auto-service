@@ -1,0 +1,3 @@
+com\example\automobileservice\services\jpa\AbstractJpaServiceTest.class
+com\example\automobileservice\services\jpa\UserJpaServiceTest.class
+com\example\automobileservice\services\jpa\RequestJpaServiceTest.class
